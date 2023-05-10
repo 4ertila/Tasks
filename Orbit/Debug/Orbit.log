@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\C++\Orbit\Source.cpp(1,1): warning C4005: GLEW_STATIC: изменение макроопределения
+D:\C++\Orbit\Source.cpp : message : см. предыдущее определение "GLEW_STATIC"
+D:\C++\Orbit\Source.cpp(116,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\C++\Orbit\Source.cpp(116,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Orbit.vcxproj -> D:\C++\Orbit\Debug\Orbit.exe
